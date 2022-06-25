@@ -1,9 +1,3 @@
-/*
-    NAME: OMONI KRAIG OCHIENG
-    REG. NO: P15/2138/2021
-    GROUP: ONE
-*/
-
 #include <iostream>
 #include <string>
 #include <fstream>
