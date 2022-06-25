@@ -462,7 +462,7 @@ void main_menu()
     while(x < 0 || x > 3)
     {
         cout << endl;
-        cout << "!ÏNVALID INPUT. TRY AGAIN!" << endl;
+        cout << "!ÃNVALID INPUT. TRY AGAIN!" << endl;
         cout << "ENTER CHOICE: ";
         cin >> x;
     }
@@ -514,7 +514,7 @@ void property_listing()
     while(x < 0 || x > 2)
     {
         cout << endl;
-        cout << "!ÏNVALID INPUT. TRY AGAIN!" << endl;
+        cout << "!ÃNVALID INPUT. TRY AGAIN!" << endl;
         cout << "ENTER CHOICE: ";
         cin >> x;
     }
@@ -554,7 +554,7 @@ void housing_listing()
     cin >> x;
     while(x < 0 || x > 4)
     {
-        cout << "!ÏNVALID INPUT. TRY AGAIN!" << endl;
+        cout << "!ÃNVALID INPUT. TRY AGAIN!" << endl;
         cout << "ENTER CHOICE: ";
         cin >> x;
     }
